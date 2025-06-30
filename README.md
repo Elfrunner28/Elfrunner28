@@ -7,8 +7,7 @@
 
 ### A full-stack software engineer passionate about building useful code.
 
-- 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
+- 🌱 I’m currently learning **[React](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
 
 
 
