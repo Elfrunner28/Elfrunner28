@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,cpp,tailwind,js,vue,redux,git,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,cpp,tailwind,swift,git,postman" />
 </p>
 
 <hr>
