@@ -13,7 +13,9 @@
 
 
 <div align=center>
+    <a>
   <img width=390 height=300 src="https://github-readme-streak-stats.herokuapp.com/?user=Elfrunner28&theme=transparent&count_private=true&border_radius=10&locale=en" alt="KartiBomb's" />
+    </a>
 </div>
 
 ## 🛠️ Languages and Tools
