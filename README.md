@@ -14,7 +14,6 @@
 
 <div align=center>
   <img width=390 height=300 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en" alt="ChijiokeOkorji's" />
-  <img width=325 height=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=elfrunner28&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
 </div>
 
 ## 🛠️ Languages and Tools
