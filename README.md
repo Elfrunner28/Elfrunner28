@@ -13,7 +13,7 @@
 
 
 <div align=center>
-  <img width=390 height=300 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en" alt="ChijiokeOkorji's" />
+  <img width=390 height=300 src="https://github-readme-streak-stats.herokuapp.com/?user=Elfrunner28&theme=transparent&count_private=true&border_radius=10&locale=en" alt="KartiBomb's" />
 </div>
 
 ## 🛠️ Languages and Tools
